@@ -28,7 +28,7 @@ A simple Java-based Task Management System designed to manage and track tasks ef
 1. Clone the repository 
 
 
-   git clone https://github.com/your-username/task-management-system.git
+   git clone https://github.com/noorul-huda/task-management-system.git
    cd task-management-system
 
 2. Compile the Java file:
